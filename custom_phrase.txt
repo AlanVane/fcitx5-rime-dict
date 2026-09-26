@@ -47,6 +47,6 @@ Go程	gocheng
 code	code
 SOHO	soho
 
-alans@alanpally.com	mycom
+alan.vane@alanpally.com	mycom
 apple.shan@gmail.com	mygmail
 39454075@qq.com	myqq
